@@ -1,1 +1,1 @@
-# require the environment file
+require 'bundler/setup'
